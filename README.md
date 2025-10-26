@@ -67,12 +67,3 @@ Missing 2023 values were predicted using the regression model.
 
 ## 🧠 Interpretation
 The model highlights how early 20th-century public health conditions were modest predictors of modern longevity, suggesting that social, economic, and medical developments since 1923 played a substantial role in extending life expectancy.
-
----
-
-## 🚀 How to Reproduce
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/life-expectancy-regression.git
-   cd life-expectancy-regression
